@@ -1,0 +1,1001 @@
+[{
+    "id": "587af8c766cc7a1f4569bad8",
+    "name": "Murray",
+    "about": "Reprehenderit et ut velit elit in excepteur. Velit duis id deserunt id laborum velit anim reprehenderit ex sit minim Lorem culpa reprehenderit. Sit amet voluptate eu in excepteur duis enim voluptate sunt. Culpa do laborum ea qui non fugiat est. Eu consectetur laboris anim occaecat nulla anim consequat quis consectetur. Amet qui sunt sint ullamco cillum enim officia fugiat incididunt magna commodo enim occaecat. Aute quis aliqua officia veniam voluptate proident.",
+    "picture": "http://i.imgur.com/mR04INml.jpg",
+    "breed": "German Shepherd/Rhodesian Ridgeback",
+    "score": 1000,
+    "latitude": "29.1872",
+    "longitude": "-82.1401",
+    "thumbnail": "http://i.imgur.com/mR04INmb.jpg"
+}, {
+    "id": "587af8c712e73b56b5e643c0",
+    "name": "Beach",
+    "about": "Amet ut cupidatat cupidatat enim esse aliquip et minim veniam reprehenderit sint exercitation non veniam. Amet pariatur adipisicing Lorem ullamco officia occaecat laborum nisi labore ut velit nulla minim. Labore enim ex dolor amet ipsum aliqua. Deserunt et fugiat cillum nulla proident esse elit in incididunt.",
+    "picture": "http://i.imgur.com/Cp1R8FSm.jpg",
+    "breed": "German Shepherd",
+    "score": 6,
+    "latitude": "-10.480905",
+    "longitude": "9.467223",
+    "thumbnail": "http://i.imgur.com/Cp1R8FSb.jpg"
+}, {
+    "id": "587af8c7021b596210aaf198",
+    "name": "Holmes",
+    "about": "Et proident cupidatat elit officia. Veniam excepteur laborum commodo sit qui consectetur ex. Duis quis mollit laborum officia aute ea eiusmod. Occaecat ipsum dolore quis dolore dolor minim sit adipisicing aliqua. Dolore proident amet anim ipsum elit laboris eu labore ad.",
+    "picture": "http://i.imgur.com/lziqmH2m.png",
+    "breed": "Border Collie",
+    "score": 74,
+    "latitude": "-33.007489",
+    "longitude": "108.463954",
+    "thumbnail": "http://i.imgur.com/lziqmH2b.png"
+}, {
+    "id": "587af8c7f1666e678855b68b",
+    "name": "West",
+    "about": "Laboris reprehenderit cillum proident veniam voluptate in proident cillum elit labore esse eiusmod in nostrud. Reprehenderit esse amet irure aute adipisicing anim quis sint esse adipisicing non officia id. Minim anim occaecat excepteur cillum ad eiusmod. Est dolor aliqua consectetur laborum dolor id et id ex eiusmod ut fugiat eiusmod.",
+    "picture": "http://i.imgur.com/kPZlFhcm.jpg",
+    "breed": "Border Collie",
+    "score": 28,
+    "latitude": "-65.975619",
+    "longitude": "162.003971",
+    "thumbnail": "http://i.imgur.com/kPZlFhcb.jpg"
+}, {
+    "id": "587af8c7594a1507ef3e12a3",
+    "name": "Jolene",
+    "about": "Id adipisicing magna est nisi velit incididunt aliqua ea in ea cupidatat eiusmod officia. Laborum eiusmod ullamco non sunt anim occaecat mollit ut esse velit. Fugiat non aute nisi aute consectetur laborum labore labore est aliquip laborum incididunt. Aliqua fugiat laborum exercitation dolore ipsum enim consectetur anim nostrud ut in enim dolore incididunt. Consectetur occaecat proident nisi pariatur dolor in eiusmod duis minim consectetur in culpa. Cillum ipsum qui reprehenderit tempor officia ad nisi esse nostrud quis. Commodo enim quis anim commodo cillum sunt in reprehenderit nulla laboris ex.",
+    "picture": "http://i.imgur.com/X1kILq9m.jpg",
+    "breed": "German Shepherd",
+    "score": 14,
+    "latitude": "82.359356",
+    "longitude": "-53.54422",
+    "thumbnail": "http://i.imgur.com/X1kILq9b.jpg"
+}, {
+    "id": "587af8c7c9cae4b8b025f57c",
+    "name": "Tate",
+    "about": "Laborum sint fugiat amet est labore adipisicing. Culpa qui occaecat ullamco laboris quis ipsum est sit dolore officia anim. Minim officia aliqua ut eu Lorem ut nulla excepteur proident pariatur mollit. Laborum Lorem magna eu culpa duis ipsum eu do ad sit duis.",
+    "picture": "http://i.imgur.com/Z8hQZwlm.jpg",
+    "breed": "Boston Terrier",
+    "score": 64,
+    "latitude": "-10.633367",
+    "longitude": "-153.697287",
+    "thumbnail": "http://i.imgur.com/Z8hQZwlb.jpg"
+}, {
+    "id": "587af8c72c3592a2226409f1",
+    "name": "Emily",
+    "about": "Sint cupidatat fugiat irure amet ut nostrud veniam id commodo mollit occaecat nulla ullamco tempor. Deserunt aliqua elit ipsum est voluptate officia nostrud exercitation et aute aute. Officia mollit voluptate ullamco id aute nisi exercitation. Anim est occaecat consequat excepteur enim amet nulla. Dolore est ex eu nostrud ea eu cupidatat sit incididunt aliquip nisi ex culpa. Reprehenderit mollit esse est cupidatat.",
+    "picture": "http://i.imgur.com/6XJPPmkm.jpg",
+    "breed": "Chihuahua",
+    "score": 25,
+    "latitude": "-80.93269",
+    "longitude": "-11.545725",
+    "thumbnail": "http://i.imgur.com/6XJPPmkb.jpg"
+}, {
+    "id": "587af8c76e7f752e6bb23e49",
+    "name": "Castaneda",
+    "about": "Commodo occaecat in dolor sit sint nisi cupidatat. Amet cupidatat enim dolore enim id amet sunt sunt ipsum. Irure adipisicing velit voluptate pariatur duis. Consequat culpa irure id dolor.",
+    "picture": "http://i.imgur.com/oALtEUDm.jpg",
+    "breed": "Pug",
+    "score": 57,
+    "latitude": "22.63658",
+    "longitude": "-19.286158",
+    "thumbnail": "http://i.imgur.com/oALtEUDb.jpg"
+}, {
+    "id": "587af8c7b5b56089073d54d4",
+    "name": "Cecilia",
+    "about": "Reprehenderit dolor voluptate occaecat minim. Occaecat in fugiat culpa deserunt eiusmod anim aliquip proident occaecat tempor nisi enim aute veniam. Dolor amet irure culpa ad consequat. Nulla minim anim irure cupidatat duis esse in mollit exercitation minim sit. Aliquip commodo do non fugiat laborum ea consectetur Lorem.",
+    "picture": "http://i.imgur.com/fwjGQbXm.jpg",
+    "breed": "American Bulldog",
+    "score": 88,
+    "latitude": "32.465671",
+    "longitude": "-20.831305",
+    "thumbnail": "http://i.imgur.com/fwjGQbXb.jpg"
+}, {
+    "id": "587af8c713d8319a06b647ee",
+    "name": "Mcconnell",
+    "about": "In minim in ut id. Ullamco minim culpa voluptate magna. Nulla consectetur in commodo laboris ex laborum sint consequat.",
+    "picture": "http://i.imgur.com/C8yj46hm.jpg",
+    "breed": "Shiba Inu",
+    "score": 19,
+    "latitude": "-40.981861",
+    "longitude": "159.718954",
+    "thumbnail": "http://i.imgur.com/C8yj46hb.jpg"
+}, {
+    "id": "587af8c7673df47a21af950f",
+    "name": "Gibson",
+    "about": "Lorem sunt ad ullamco duis duis ad id minim deserunt sit. Nulla consequat consectetur tempor dolore ea velit ea laborum voluptate do. Quis sint dolore non labore commodo proident tempor commodo officia.",
+    "picture": "http://i.imgur.com/EH018qFm.jpg",
+    "breed": "Pug",
+    "score": 96,
+    "latitude": "33.032559",
+    "longitude": "144.982298",
+    "thumbnail": "http://i.imgur.com/EH018qFb.jpg"
+}, {
+    "id": "587af8c7b5ab0899466467cf",
+    "name": "Dianne",
+    "about": "Cupidatat consequat ad veniam eiusmod ad labore ad. Ea excepteur voluptate officia occaecat ipsum voluptate proident amet magna aliquip aute anim. Ea Lorem aute ea anim id adipisicing. Mollit officia eiusmod qui qui commodo duis.",
+    "picture": "http://i.imgur.com/mRiYXIWm.jpg",
+    "breed": "Bull Terrier",
+    "score": 32,
+    "latitude": "-15.556484",
+    "longitude": "-60.344053",
+    "thumbnail": "http://i.imgur.com/mRiYXIWb.jpg"
+}, {
+    "id": "587af8c7718bcd1c3e38563f",
+    "name": "Fisher",
+    "about": "Fugiat exercitation tempor nulla reprehenderit dolore exercitation irure nulla non ullamco. Enim id anim incididunt cillum enim officia commodo consectetur quis Lorem elit ullamco velit ex. Esse ea qui cupidatat fugiat consectetur cillum mollit adipisicing cillum consectetur consequat. Consectetur commodo qui ad adipisicing consequat. Est dolore irure ex cillum dolor laborum nisi amet in. Cupidatat non excepteur ex fugiat exercitation excepteur ullamco ut eiusmod aliqua occaecat amet. In esse est qui exercitation amet magna elit sit id aliquip nostrud fugiat.",
+    "picture": "http://i.imgur.com/24kD4GFm.jpg",
+    "breed": "Pug",
+    "score": 17,
+    "latitude": "-17.69796",
+    "longitude": "110.288053",
+    "thumbnail": "http://i.imgur.com/24kD4GFb.jpg"
+}, {
+    "id": "587af8c78297fea05475f3cf",
+    "name": "Jarvis",
+    "about": "Tempor adipisicing sint culpa ad amet mollit commodo laboris. Eu labore ad deserunt consectetur nulla duis fugiat sit laborum ex nulla exercitation aliqua. Pariatur exercitation incididunt ea reprehenderit aute duis eu ex eiusmod labore. Nostrud excepteur enim amet commodo nulla in eu elit eu deserunt. Enim deserunt ad nulla enim ad sunt enim consectetur Lorem laborum. Deserunt Lorem exercitation amet ipsum eu magna fugiat. Sunt sunt qui mollit qui aute ipsum adipisicing consectetur.",
+    "picture": "http://i.imgur.com/iCU0cNtm.jpg",
+    "breed": "Bulldog",
+    "score": 27,
+    "latitude": "30.63287",
+    "longitude": "-72.225972",
+    "thumbnail": "http://i.imgur.com/iCU0cNtb.jpg"
+}, {
+    "id": "587af8c76641e66a84bc1d99",
+    "name": "Loretta",
+    "about": "Tempor sunt qui enim labore sunt quis consectetur ad velit voluptate do aliqua quis. Ad duis eu excepteur minim. Dolor adipisicing id aliquip anim ea excepteur proident esse aliqua sit sunt ex deserunt. Mollit anim dolor laborum commodo nulla incididunt magna nostrud laboris labore. Eu ullamco et eiusmod proident cillum labore ad irure pariatur enim.",
+    "picture": "http://i.imgur.com/7Y5eXjxm.jpg",
+    "breed": "German Shepherd",
+    "score": 68,
+    "latitude": "-17.301616",
+    "longitude": "-144.393192",
+    "thumbnail": "http://i.imgur.com/7Y5eXjxb.jpg"
+}, {
+    "id": "587af8c7750d878f1488f7e9",
+    "name": "Lucia",
+    "about": "Ad cupidatat fugiat dolore laboris Lorem magna. Proident qui sit nulla cillum cupidatat ex esse dolore eiusmod laboris sit adipisicing. Eiusmod elit esse do id enim velit sit irure quis et anim. Deserunt est laborum deserunt aliqua cupidatat ex duis anim eu voluptate. Ullamco reprehenderit laborum tempor et nisi qui dolor ipsum cupidatat ut velit ipsum ipsum. Aliqua nulla incididunt labore cillum laboris dolor duis. Eiusmod mollit quis non excepteur anim aute ex anim anim veniam irure irure ipsum nisi.",
+    "picture": "http://i.imgur.com/kPZlFhcm.jpg",
+    "breed": "Chihuahua",
+    "score": 77,
+    "latitude": "70.140002",
+    "longitude": "-166.31779",
+    "thumbnail": "http://i.imgur.com/kPZlFhcb.jpg"
+}, {
+    "id": "587af8c78024769f743a28df",
+    "name": "Hull",
+    "about": "Consectetur quis excepteur anim aliqua. Duis laborum Lorem nulla aute nisi laboris qui. Enim incididunt consectetur est aute sint aliquip nulla nulla labore officia aute. Minim est aliqua non ullamco voluptate pariatur et. Nulla consectetur officia aliqua laborum veniam ea duis aliquip sunt et consequat minim. Duis qui laborum eu sit mollit sit ut anim enim exercitation voluptate esse. Nulla nulla id magna ut irure reprehenderit.",
+    "picture": "http://i.imgur.com/7KM0K2Qm.jpg",
+    "breed": "German Shepherd",
+    "score": 19,
+    "latitude": "85.779172",
+    "longitude": "0.539326",
+    "thumbnail": "http://i.imgur.com/7KM0K2Qb.jpg"
+}, {
+    "id": "587af8c71e30e1e6046e4a6c",
+    "name": "Dillon",
+    "about": "Ad occaecat consectetur enim culpa ut dolore commodo nisi velit consectetur excepteur ad. Voluptate deserunt aliqua dolor do et velit sunt irure Lorem occaecat Lorem esse dolore. Sint ut nulla eu aliquip et officia enim Lorem velit. Anim Lorem ea veniam adipisicing id irure laboris. Ea occaecat velit reprehenderit consequat sint Lorem. Aliquip eiusmod ea laborum Lorem ipsum ad ad adipisicing velit excepteur. Eiusmod est magna est pariatur proident eu.",
+    "picture": "http://i.imgur.com/1mmw2vhm.jpg",
+    "breed": "Chihuahua",
+    "score": 13,
+    "latitude": "60.694734",
+    "longitude": "175.612696",
+    "thumbnail": "http://i.imgur.com/1mmw2vhb.jpg"
+}, {
+    "id": "587af8c77c3eb11c16c653f3",
+    "name": "Ada",
+    "about": "Adipisicing laboris laboris adipisicing culpa non fugiat esse cupidatat cupidatat commodo aliqua sunt velit ea. Eiusmod excepteur cillum esse laborum et irure id velit sit. Lorem do pariatur Lorem elit in. Magna pariatur consectetur anim velit dolor officia eiusmod. Irure velit et nostrud adipisicing Lorem. Aliqua consectetur nisi dolore cillum ea sit est eu magna velit quis incididunt ullamco.",
+    "picture": "http://i.imgur.com/O1SL89Rm.jpg",
+    "breed": "Boston Terrier",
+    "score": 60,
+    "latitude": "-72.791658",
+    "longitude": "179.084452",
+    "thumbnail": "http://i.imgur.com/O1SL89Rb.jpg"
+}, {
+    "id": "587af8c77bb2a659023e4f0a",
+    "name": "Palmer",
+    "about": "Culpa nulla ea ea culpa culpa. Eiusmod deserunt cillum ex reprehenderit culpa ipsum. Aliquip dolor reprehenderit ea aute qui veniam elit velit quis fugiat elit ipsum amet. Officia ex commodo culpa proident exercitation pariatur elit pariatur deserunt id.",
+    "picture": "http://i.imgur.com/PHUvJvtm.jpg",
+    "breed": "Chihuahua",
+    "score": 60,
+    "latitude": "-36.746835",
+    "longitude": "-179.024312",
+    "thumbnail": "http://i.imgur.com/PHUvJvtb.jpg"
+}, {
+    "id": "587af8c76207b20f5d026c1f",
+    "name": "Alston",
+    "about": "Qui velit eiusmod exercitation officia adipisicing ipsum qui anim officia. Commodo incididunt mollit magna ex sunt eu aliqua esse dolor culpa non exercitation excepteur quis. Proident aute eu nulla aliquip eiusmod sint eu. Cupidatat deserunt aliquip sunt adipisicing sit adipisicing ex ex ullamco minim sint amet.",
+    "picture": "http://i.imgur.com/oeot66Om.jpg",
+    "breed": "Pug",
+    "score": 30,
+    "latitude": "-12.439302",
+    "longitude": "4.789959",
+    "thumbnail": "http://i.imgur.com/oeot66Ob.jpg"
+}, {
+    "id": "587af8c77c1bfed07a339913",
+    "name": "Vargas",
+    "about": "Ea est nostrud adipisicing magna elit. Eiusmod ad et deserunt non culpa laboris sunt non duis. Cupidatat enim nisi culpa id ea velit. Officia labore elit mollit sint veniam elit.",
+    "picture": "http://i.imgur.com/sME7VOKm.jpg",
+    "breed": "Bull Terrier",
+    "score": 93,
+    "latitude": "19.050696",
+    "longitude": "65.104205",
+    "thumbnail": "http://i.imgur.com/sME7VOKb.jpg"
+}, {
+    "id": "587af8c70196a8060c71534f",
+    "name": "Riddle",
+    "about": "Ex duis esse mollit laborum dolore amet do in laboris est elit cillum excepteur occaecat. Est laboris elit irure laborum eiusmod. Magna tempor in labore excepteur ullamco proident proident eu ea labore. Mollit irure esse ipsum occaecat et anim dolor voluptate nisi. Cupidatat pariatur anim eiusmod do. Ullamco officia ullamco labore aliquip nostrud. Aute id adipisicing laborum enim eiusmod sint eu minim.",
+    "picture": "http://i.imgur.com/YdfZrBum.jpg",
+    "breed": "Bull Terrier",
+    "score": 8,
+    "latitude": "80.843226",
+    "longitude": "-26.678447",
+    "thumbnail": "http://i.imgur.com/YdfZrBub.jpg"
+}, {
+    "id": "587af8c78933a9affa41eda7",
+    "name": "Courtney",
+    "about": "Do fugiat tempor eiusmod quis eiusmod culpa nostrud non tempor ad. Non dolore do nostrud consectetur non nostrud culpa. Exercitation commodo minim ea in ullamco.",
+    "picture": "http://i.imgur.com/O9SuTXkm.jpg",
+    "breed": "Border Collie",
+    "score": 21,
+    "latitude": "62.627129",
+    "longitude": "-171.867925",
+    "thumbnail": "http://i.imgur.com/O9SuTXkb.jpg"
+}, {
+    "id": "587af8c7e8b8f8ae7ce2efbe",
+    "name": "Ola",
+    "about": "Dolore labore commodo voluptate elit deserunt aute Lorem enim cupidatat eu exercitation velit. Eu cupidatat occaecat nisi aliqua et pariatur magna in labore anim veniam aliquip adipisicing. Tempor laborum irure cupidatat dolore eu incididunt mollit laborum dolor.",
+    "picture": "http://i.imgur.com/FVXjkS0m.jpg",
+    "breed": "Bull Terrier",
+    "score": 25,
+    "latitude": "73.5887",
+    "longitude": "115.154091",
+    "thumbnail": "http://i.imgur.com/FVXjkS0b.jpg"
+}, {
+    "id": "587af8c7b35907dd78b309a7",
+    "name": "Holman",
+    "about": "Dolor magna ullamco incididunt eu esse enim reprehenderit esse. Eiusmod Lorem veniam culpa do anim mollit voluptate voluptate incididunt esse. Ex ut in non ea et ad amet officia aliquip occaecat velit. Eiusmod non veniam anim ullamco ut proident adipisicing nostrud nisi adipisicing laboris est nulla pariatur. Esse sint enim excepteur aliquip commodo in quis ut velit eiusmod qui laborum aliqua deserunt.",
+    "picture": "http://i.imgur.com/BTbGmRwm.jpg",
+    "breed": "Bulldog",
+    "score": 80,
+    "latitude": "-21.771998",
+    "longitude": "-4.752881",
+    "thumbnail": "http://i.imgur.com/BTbGmRwb.jpg"
+}, {
+    "id": "587af8c72913791826abc9bf",
+    "name": "Hampton",
+    "about": "Occaecat exercitation commodo aliquip aute occaecat est ut incididunt. Dolore cillum dolore veniam consectetur ut consectetur et occaecat proident amet. Aliquip non officia in et cupidatat ea qui cillum eu anim ipsum irure. Dolor sunt excepteur anim fugiat occaecat nulla Lorem voluptate reprehenderit anim. Reprehenderit non adipisicing ut duis officia dolor ut labore. Incididunt dolor deserunt nisi et pariatur sit esse sint pariatur occaecat minim est nulla.",
+    "picture": "http://i.imgur.com/RMmNcgzm.jpg",
+    "breed": "Bulldog",
+    "score": 57,
+    "latitude": "37.650905",
+    "longitude": "99.859806",
+    "thumbnail": "http://i.imgur.com/RMmNcgzb.jpg"
+}, {
+    "id": "587af8c722e875d5e4a3475c",
+    "name": "Figueroa",
+    "about": "Lorem Lorem nisi eu irure nulla nisi proident amet tempor fugiat. Mollit sunt exercitation excepteur anim veniam consequat. Ullamco irure aliquip ad duis amet. Ex elit id occaecat dolore ad officia officia aute ex elit mollit enim. Esse amet consectetur duis aliquip officia laborum exercitation veniam aliqua id laborum ex exercitation. Dolor non qui aute eiusmod enim occaecat mollit in.",
+    "picture": "http://i.imgur.com/oALtEUDm.jpg",
+    "breed": "Pug",
+    "score": 37,
+    "latitude": "47.231128",
+    "longitude": "-87.014549",
+    "thumbnail": "http://i.imgur.com/oALtEUDb.jpg"
+}, {
+    "id": "587af8c7d875822b73f3836e",
+    "name": "Lea",
+    "about": "Reprehenderit sunt eiusmod excepteur voluptate adipisicing. Eiusmod dolore qui pariatur veniam cillum consectetur enim exercitation culpa fugiat magna. Cillum id laboris sint duis ipsum.",
+    "picture": "http://i.imgur.com/Vgx8PVjm.jpg",
+    "breed": "Boston Terrier",
+    "score": 41,
+    "latitude": "-55.389212",
+    "longitude": "26.504761",
+    "thumbnail": "http://i.imgur.com/Vgx8PVjb.jpg"
+}, {
+    "id": "587af8c7e8f8d30cbd7fe64f",
+    "name": "Brittney",
+    "about": "Elit irure aute nulla eiusmod cillum amet magna eu qui nulla pariatur ex. Aliqua id ex consectetur aliquip sit Lorem proident ullamco. Consequat in dolore id sint. Veniam ad reprehenderit dolore veniam.",
+    "picture": "http://i.imgur.com/xRxBilzm.jpg",
+    "breed": "Border Collie",
+    "score": 59,
+    "latitude": "43.169702",
+    "longitude": "158.018451",
+    "thumbnail": "http://i.imgur.com/xRxBilzb.jpg"
+}, {
+    "id": "587af8c757261e4bc7e749db",
+    "name": "Santana",
+    "about": "Esse irure reprehenderit mollit pariatur culpa commodo exercitation dolore duis pariatur qui voluptate dolore. Tempor anim aliqua velit occaecat. Nulla ullamco occaecat elit exercitation est sunt elit non ad. Ullamco duis ipsum proident labore do velit ipsum qui amet adipisicing qui enim proident. Cillum sit amet eiusmod consequat nostrud ea do cillum. Do voluptate veniam et eu.",
+    "picture": "http://i.imgur.com/RMmNcgzm.jpg",
+    "breed": "Border Collie",
+    "score": 30,
+    "latitude": "66.519119",
+    "longitude": "-129.542935",
+    "thumbnail": "http://i.imgur.com/RMmNcgzb.jpg"
+}, {
+    "id": "587af8c730e7c805b08b991c",
+    "name": "Robbins",
+    "about": "Aute ullamco consectetur eiusmod ullamco non duis magna proident. Ex qui deserunt ullamco esse cillum laborum. Do occaecat aliquip irure in cillum ex magna enim ullamco laborum deserunt. Mollit magna est minim adipisicing consectetur laborum ad consectetur ipsum officia duis. Dolor exercitation sit Lorem minim dolor officia sint.",
+    "picture": "http://i.imgur.com/3TOyBhNm.jpg",
+    "breed": "German Shepherd",
+    "score": 88,
+    "latitude": "-42.841842",
+    "longitude": "-46.683242",
+    "thumbnail": "http://i.imgur.com/3TOyBhNb.jpg"
+}, {
+    "id": "587af8c7d16fac07d96772cd",
+    "name": "Holder",
+    "about": "Sint anim elit elit consectetur incididunt exercitation anim pariatur proident. Ut fugiat laboris amet ea est incididunt tempor proident voluptate fugiat duis. Aute veniam sunt ipsum eu sit sit excepteur. Aute consequat in proident aute commodo laboris eu esse reprehenderit exercitation.",
+    "picture": "http://i.imgur.com/ksX8FoVm.jpg",
+    "breed": "American Bulldog",
+    "score": 80,
+    "latitude": "-4.858595",
+    "longitude": "-6.040468",
+    "thumbnail": "http://i.imgur.com/ksX8FoVb.jpg"
+}, {
+    "id": "587af8c7e6240832d941bc7d",
+    "name": "Dotson",
+    "about": "Nostrud consequat ad sit anim sit sunt dolore. Quis do ullamco consectetur officia eiusmod. Culpa quis pariatur sunt aute. Minim ea voluptate occaecat minim laborum occaecat et irure consequat dolore. Eiusmod adipisicing reprehenderit incididunt nisi commodo dolore aliquip. Sint reprehenderit laboris fugiat adipisicing qui proident et cupidatat labore. Adipisicing enim reprehenderit cillum quis cupidatat tempor voluptate irure tempor incididunt ea sint.",
+    "picture": "http://i.imgur.com/C8yj46hm.jpg",
+    "breed": "American Pit Bull Terrier",
+    "score": 49,
+    "latitude": "59.27815",
+    "longitude": "-103.77177",
+    "thumbnail": "http://i.imgur.com/C8yj46hb.jpg"
+}, {
+    "id": "587af8c73611a4804bb43961",
+    "name": "Kelley",
+    "about": "Adipisicing officia voluptate anim eiusmod occaecat cillum qui veniam nostrud adipisicing ad ipsum. Do id fugiat incididunt laborum mollit id irure id commodo. Elit elit consectetur voluptate consectetur. Ullamco duis sunt Lorem exercitation.",
+    "picture": "http://i.imgur.com/mj9N9Ztm.jpg",
+    "breed": "German Shepherd",
+    "score": 83,
+    "latitude": "41.593918",
+    "longitude": "166.083682",
+    "thumbnail": "http://i.imgur.com/mj9N9Ztb.jpg"
+}, {
+    "id": "587af8c7aec29d0ee6f1ea1f",
+    "name": "Whitaker",
+    "about": "Aute sit voluptate deserunt id ipsum proident. Veniam laborum sint aute proident enim tempor irure amet irure occaecat. Ut in cillum mollit laborum cillum ullamco nulla elit. Laboris nisi sint Lorem fugiat eu ex deserunt sint ipsum dolor in fugiat eu. Id in consequat ipsum excepteur fugiat velit ad pariatur ea officia esse est. Aliqua in nisi adipisicing culpa amet fugiat anim. Anim velit anim sint excepteur amet.",
+    "picture": "http://i.imgur.com/ms0kyAbm.jpg",
+    "breed": "Bulldog",
+    "score": 18,
+    "latitude": "-72.316289",
+    "longitude": "-136.816699",
+    "thumbnail": "http://i.imgur.com/ms0kyAbb.jpg"
+}, {
+    "id": "587af8c7dc2867c76b4c6fa9",
+    "name": "Gross",
+    "about": "Excepteur magna nisi deserunt culpa sunt ex aute. Duis voluptate ut dolore sit nulla mollit tempor ullamco aliquip aute minim excepteur voluptate id. Irure quis anim veniam laborum dolore voluptate cupidatat nulla pariatur. Ex sit fugiat nisi consectetur. Ex voluptate proident exercitation excepteur ea.",
+    "picture": "http://i.imgur.com/iCU0cNtm.jpg",
+    "breed": "Boston Terrier",
+    "score": 35,
+    "latitude": "87.28303",
+    "longitude": "-157.107095",
+    "thumbnail": "http://i.imgur.com/iCU0cNtb.jpg"
+}, {
+    "id": "587af8c726f6340cc86e50ee",
+    "name": "Crawford",
+    "about": "Ut velit reprehenderit pariatur tempor pariatur est irure exercitation quis. Veniam id cupidatat in aute laborum officia ad. Nostrud mollit fugiat incididunt laboris deserunt dolore non sit ex.",
+    "picture": "http://i.imgur.com/L681o3qm.jpg",
+    "breed": "Bulldog",
+    "score": 0,
+    "latitude": "73.099006",
+    "longitude": "-136.893747",
+    "thumbnail": "http://i.imgur.com/L681o3qb.jpg"
+}, {
+    "id": "587af8c727239db4f5609ac9",
+    "name": "Bridgette",
+    "about": "Cillum eu minim enim veniam aliquip ut dolor. Ipsum sunt amet nisi in excepteur commodo ea proident nisi. Aliquip in tempor culpa culpa. Veniam nulla occaecat pariatur consectetur eiusmod quis. Aute aute culpa do ad pariatur magna duis velit non mollit aute qui dolor. Occaecat reprehenderit id laboris ut.",
+    "picture": "http://i.imgur.com/7KM0K2Qm.jpg",
+    "breed": "Shiba Inu",
+    "score": 85,
+    "latitude": "64.023823",
+    "longitude": "-136.628829",
+    "thumbnail": "http://i.imgur.com/7KM0K2Qb.jpg"
+}, {
+    "id": "587af8c783ffd10861c63a3c",
+    "name": "Knowles",
+    "about": "Ea nisi veniam proident enim eu dolore sit exercitation qui in Lorem nisi ullamco anim. Consequat elit non non sit reprehenderit. Duis nisi proident ex cillum. Et cupidatat nostrud consequat consequat eu ullamco officia aliqua proident cupidatat ea proident.",
+    "picture": "http://i.imgur.com/L681o3qm.jpg",
+    "breed": "German Shepherd",
+    "score": 31,
+    "latitude": "-15.83469",
+    "longitude": "140.373783",
+    "thumbnail": "http://i.imgur.com/L681o3qb.jpg"
+}, {
+    "id": "587af8c7a8a9793f32bab023",
+    "name": "Myrna",
+    "about": "Consequat proident in nisi cillum amet non deserunt duis. Esse minim voluptate commodo sunt exercitation commodo fugiat veniam id sunt commodo. Officia ea irure velit fugiat occaecat eiusmod. Ipsum ad non eu officia ex. Aliquip adipisicing consequat laboris consequat aliqua do anim.",
+    "picture": "http://i.imgur.com/H2wRlwzm.jpg",
+    "breed": "Pug",
+    "score": 98,
+    "latitude": "-82.887103",
+    "longitude": "-127.545677",
+    "thumbnail": "http://i.imgur.com/H2wRlwzb.jpg"
+}, {
+    "id": "587af8c774ea52593c80d344",
+    "name": "Brown",
+    "about": "Proident ipsum labore laborum cupidatat. Do ut laboris anim reprehenderit ut in proident duis tempor commodo ex. Duis id nisi aute ipsum qui incididunt culpa officia ipsum in occaecat.",
+    "picture": "http://i.imgur.com/FEMDzbsm.jpg",
+    "breed": "Boston Terrier",
+    "score": 87,
+    "latitude": "23.616806",
+    "longitude": "-155.121128",
+    "thumbnail": "http://i.imgur.com/FEMDzbsb.jpg"
+}, {
+    "id": "587af8c7fa8919d577f3244a",
+    "name": "Bianca",
+    "about": "Irure reprehenderit aute anim consectetur veniam cupidatat duis ad sint adipisicing deserunt nisi ea. Laborum mollit elit incididunt elit aute. Sunt officia qui aute incididunt. Proident laborum aliquip nisi incididunt dolore.",
+    "picture": "http://i.imgur.com/stXIhMBm.jpg",
+    "breed": "American Bulldog",
+    "score": 38,
+    "latitude": "16.166686",
+    "longitude": "95.266187",
+    "thumbnail": "http://i.imgur.com/stXIhMBb.jpg"
+}, {
+    "id": "587af8c704dcf72c8bf6d635",
+    "name": "Summers",
+    "about": "Ex officia commodo nostrud adipisicing nulla quis deserunt id anim. Proident velit ullamco amet cillum aliquip. Sit aliqua ullamco exercitation enim cupidatat deserunt magna exercitation consequat do commodo nisi.",
+    "picture": "http://i.imgur.com/oZITESom.jpg",
+    "breed": "Bulldog",
+    "score": 7,
+    "latitude": "-38.52353",
+    "longitude": "85.017166",
+    "thumbnail": "http://i.imgur.com/oZITESob.jpg"
+}, {
+    "id": "587af8c7ac7cb639fab61bec",
+    "name": "Bates",
+    "about": "Qui ea do nisi amet tempor velit nulla quis voluptate excepteur ea fugiat esse. Ex veniam nostrud laboris ex cupidatat ea Lorem adipisicing ex. Sint enim consectetur cupidatat consectetur officia et do aliquip excepteur aliquip. Ad sunt dolore do duis. Nulla nisi eiusmod incididunt labore consectetur.",
+    "picture": "http://i.imgur.com/Vgx8PVjm.jpg",
+    "breed": "American Pit Bull Terrier",
+    "score": 0,
+    "latitude": "36.36339",
+    "longitude": "125.772672",
+    "thumbnail": "http://i.imgur.com/Vgx8PVjb.jpg"
+}, {
+    "id": "587af8c7a8b9a180f5791ee8",
+    "name": "Pennington",
+    "about": "Lorem id Lorem tempor dolor in ad adipisicing culpa non nisi aliquip. Mollit nisi quis quis laboris ad id. Reprehenderit mollit consectetur aliquip laborum tempor ex veniam pariatur cillum duis qui id non sint. Cupidatat qui laborum magna do adipisicing minim ad adipisicing mollit.",
+    "picture": "http://i.imgur.com/ms0kyAbm.jpg",
+    "breed": "Boston Terrier",
+    "score": 94,
+    "latitude": "-88.455787",
+    "longitude": "165.399864",
+    "thumbnail": "http://i.imgur.com/ms0kyAbb.jpg"
+}, {
+    "id": "587af8c7e4285aae26842215",
+    "name": "Bernadette",
+    "about": "Proident sunt exercitation officia tempor tempor Lorem do duis occaecat eu sit consectetur. Aute laboris culpa et cillum. Aliqua ut aliquip consequat laborum ea dolore aliqua proident est pariatur sint deserunt culpa tempor. Ex pariatur non Lorem qui culpa ea in enim non. Nostrud duis irure occaecat velit voluptate cupidatat eiusmod cupidatat culpa tempor nulla enim ad in. Mollit pariatur quis amet voluptate elit.",
+    "picture": "http://i.imgur.com/iCU0cNtm.jpg",
+    "breed": "American Bulldog",
+    "score": 83,
+    "latitude": "-51.988427",
+    "longitude": "134.610817",
+    "thumbnail": "http://i.imgur.com/iCU0cNtb.jpg"
+}, {
+    "id": "587af8c727b1d92ae3f4f061",
+    "name": "Lara",
+    "about": "Nisi elit non in dolore proident ut nostrud eiusmod est cupidatat. Qui ex exercitation nisi sit. Ea aliqua veniam id occaecat voluptate fugiat exercitation nulla qui commodo. Deserunt aliqua qui culpa proident. Id officia tempor occaecat ex laborum sint consequat est nulla reprehenderit est. Adipisicing Lorem veniam duis dolore aliqua Lorem. Non eu eu cillum nostrud veniam ut cillum exercitation nisi exercitation quis ea.",
+    "picture": "http://i.imgur.com/PHUvJvtm.jpg",
+    "breed": "German Shepherd",
+    "score": 16,
+    "latitude": "39.633901",
+    "longitude": "170.767158",
+    "thumbnail": "http://i.imgur.com/PHUvJvtb.jpg"
+}, {
+    "id": "587af8c774ff4ced325cc444",
+    "name": "Lucy",
+    "about": "Culpa deserunt sunt ullamco consectetur fugiat occaecat pariatur in magna irure reprehenderit aliquip. Non sunt eu nulla ullamco ad do magna velit mollit ex in officia. Commodo cillum est ex non officia adipisicing amet sit dolor adipisicing laboris non anim ipsum. Minim nostrud quis proident enim tempor esse quis adipisicing. Dolore velit anim sit cillum velit ex amet cillum consectetur adipisicing commodo proident fugiat. Incididunt ex do amet duis. Magna reprehenderit et cillum est veniam est nostrud.",
+    "picture": "http://i.imgur.com/2C21WYJm.jpg",
+    "breed": "Pug",
+    "score": 28,
+    "latitude": "-6.442116",
+    "longitude": "-14.846473",
+    "thumbnail": "http://i.imgur.com/2C21WYJb.jpg"
+}, {
+    "id": "587af8c7f7068883ac250e79",
+    "name": "Kaitlin",
+    "about": "Minim et excepteur ad esse consectetur fugiat eiusmod. Irure voluptate proident sunt aliquip aliquip ullamco eiusmod incididunt ut pariatur proident. Fugiat aliqua nostrud pariatur mollit ipsum ex sint voluptate pariatur ut nulla magna fugiat consequat.",
+    "picture": "http://i.imgur.com/jnlFKZom.jpg",
+    "breed": "Bulldog",
+    "score": 79,
+    "latitude": "-14.030774",
+    "longitude": "-104.618421",
+    "thumbnail": "http://i.imgur.com/jnlFKZob.jpg"
+}, {
+    "id": "587af8c725ea74e9ffc11242",
+    "name": "Liza",
+    "about": "Aliqua ea occaecat et proident in eu reprehenderit commodo dolore dolore do. Voluptate est excepteur veniam ipsum nulla minim ullamco exercitation. Esse voluptate officia dolor quis ut Lorem cupidatat reprehenderit commodo ut. Sunt dolor consequat officia cupidatat cupidatat id quis. Duis voluptate esse proident irure incididunt voluptate est commodo quis ad tempor proident magna qui. Proident nisi pariatur proident sunt laborum veniam ullamco est proident culpa dolor culpa adipisicing.",
+    "picture": "http://i.imgur.com/u2jEZcIm.jpg",
+    "breed": "Bulldog",
+    "score": 68,
+    "latitude": "67.621363",
+    "longitude": "-60.005571",
+    "thumbnail": "http://i.imgur.com/u2jEZcIb.jpg"
+}, {
+    "id": "587af8c7d40af57b8c580c4f",
+    "name": "Desiree",
+    "about": "Aliqua duis aliquip laboris quis ea non esse. Voluptate anim ullamco ea in culpa duis dolor. Velit deserunt irure sint aliqua commodo nostrud commodo ex. Duis consectetur nisi quis elit incididunt commodo ea tempor incididunt duis reprehenderit nulla. Exercitation nulla non aute commodo irure et tempor officia enim excepteur ullamco eiusmod commodo laborum.",
+    "picture": "http://i.imgur.com/GGMNHtqm.jpg",
+    "breed": "Pug",
+    "score": 16,
+    "latitude": "-8.262251",
+    "longitude": "23.50977",
+    "thumbnail": "http://i.imgur.com/GGMNHtqb.jpg"
+}, {
+    "id": "587af8c7ba7cf528f25ec399",
+    "name": "Black",
+    "about": "Enim et qui et cupidatat irure do tempor. Consectetur laborum ea id ut. Excepteur elit officia Lorem occaecat ad aute veniam velit excepteur. Tempor aute in deserunt non proident cupidatat aute. Qui irure non dolore dolor nostrud aliqua.",
+    "picture": "http://i.imgur.com/BjF7GOYm.jpg",
+    "breed": "American Bulldog",
+    "score": 63,
+    "latitude": "29.523694",
+    "longitude": "90.947798",
+    "thumbnail": "http://i.imgur.com/BjF7GOYb.jpg"
+}, {
+    "id": "587af8c7e0082b7e6cad8a67",
+    "name": "Tyson",
+    "about": "Cillum velit ea mollit consectetur sit excepteur. Aliquip nulla eiusmod quis anim eu sit minim. Nostrud Lorem magna nostrud sint ad cillum velit commodo. Aute aliqua ipsum sint cupidatat id enim voluptate. Nisi in sint amet anim elit qui veniam nisi nostrud aliquip voluptate sunt id. Nisi anim ipsum velit laborum ipsum nisi cupidatat excepteur enim nulla.",
+    "picture": "http://i.imgur.com/9WIiqsLm.jpg",
+    "breed": "American Bulldog",
+    "score": 58,
+    "latitude": "-10.064036",
+    "longitude": "98.044694",
+    "thumbnail": "http://i.imgur.com/9WIiqsLb.jpg"
+}, {
+    "id": "587af8c71927a0bb5da67f66",
+    "name": "Briana",
+    "about": "Eiusmod elit eu ad aliqua cupidatat sint irure occaecat aliquip aliquip est velit reprehenderit sint. Occaecat magna nostrud sunt quis. Id cillum sit amet nulla in ex sunt labore commodo consectetur qui deserunt.",
+    "picture": "http://i.imgur.com/tIfVKTfm.jpg",
+    "breed": "Shiba Inu",
+    "score": 60,
+    "latitude": "-1.280909",
+    "longitude": "-15.490455",
+    "thumbnail": "http://i.imgur.com/tIfVKTfb.jpg"
+}, {
+    "id": "587af8c75a56e40c351c8e5b",
+    "name": "Shauna",
+    "about": "Labore elit anim aliquip consequat duis consectetur dolore non reprehenderit voluptate ipsum quis. Eiusmod laboris cupidatat ex ullamco anim ea exercitation. Reprehenderit dolore culpa voluptate aute sit qui. Qui id magna laboris velit amet consectetur commodo aute ad in sit non.",
+    "picture": "http://i.imgur.com/p2ZfRh3m.jpg",
+    "breed": "Boston Terrier",
+    "score": 29,
+    "latitude": "39.510261",
+    "longitude": "-13.087908",
+    "thumbnail": "http://i.imgur.com/p2ZfRh3b.jpg"
+}, {
+    "id": "587af8c74a306c5b0037ebe7",
+    "name": "Mcneil",
+    "about": "Eu irure aliquip adipisicing aliqua in occaecat nisi do et nostrud. Cupidatat ad consequat ea occaecat minim dolor Lorem aliquip reprehenderit sit ullamco est culpa. Culpa esse fugiat Lorem duis qui excepteur veniam ea aute excepteur quis est. Cupidatat commodo quis adipisicing culpa ullamco Lorem esse incididunt laboris. Occaecat officia culpa aute tempor sit exercitation ex ex voluptate eiusmod do qui qui.",
+    "picture": "http://i.imgur.com/7Y5eXjxm.jpg",
+    "breed": "German Shepherd",
+    "score": 100,
+    "latitude": "-28.278971",
+    "longitude": "82.472081",
+    "thumbnail": "http://i.imgur.com/7Y5eXjxb.jpg"
+}, {
+    "id": "587af8c79b526d906d978cdd",
+    "name": "Maldonado",
+    "about": "Veniam duis mollit et ullamco. Ex duis occaecat ipsum dolore magna. Tempor ad Lorem ea amet officia excepteur cillum laborum mollit ad cillum cillum. Commodo proident et mollit occaecat laboris adipisicing velit enim. Deserunt incididunt veniam reprehenderit tempor veniam aliquip aliqua sint occaecat nisi eu in cillum. Pariatur culpa est aliquip et eu. Et dolor pariatur magna proident aliquip irure anim anim officia dolor deserunt.",
+    "picture": "http://i.imgur.com/meBoORem.jpg",
+    "breed": "American Pit Bull Terrier",
+    "score": 35,
+    "latitude": "80.371928",
+    "longitude": "14.511396",
+    "thumbnail": "http://i.imgur.com/meBoOReb.jpg"
+}, {
+    "id": "587af8c724fc567d2dd7258b",
+    "name": "Bridget",
+    "about": "Non non commodo nulla velit est nulla qui. Ullamco sunt est magna cupidatat tempor non aliqua aliquip. Ipsum nostrud officia eu do elit consequat. Duis reprehenderit laborum est mollit. Ad elit non nisi adipisicing laborum cupidatat sit proident non fugiat fugiat voluptate amet irure.",
+    "picture": "http://i.imgur.com/yuYxtFmm.jpg",
+    "breed": "Chihuahua",
+    "score": 83,
+    "latitude": "-46.063327",
+    "longitude": "-72.992299",
+    "thumbnail": "http://i.imgur.com/yuYxtFmb.jpg"
+}, {
+    "id": "587af8c78bacc50967fc6537",
+    "name": "Dionne",
+    "about": "Sit ullamco dolore velit cupidatat duis ex culpa sint officia occaecat. Aliqua id sint consectetur nostrud id reprehenderit non. Cupidatat ex in eiusmod adipisicing.",
+    "picture": "http://i.imgur.com/BTbGmRwm.jpg",
+    "breed": "Bull Terrier",
+    "score": 37,
+    "latitude": "8.322088",
+    "longitude": "-122.164523",
+    "thumbnail": "http://i.imgur.com/BTbGmRwb.jpg"
+}, {
+    "id": "587af8c793af52fc02a815d0",
+    "name": "Virginia",
+    "about": "Excepteur ad velit commodo quis dolore ad aute incididunt esse exercitation. Cillum deserunt enim dolore nostrud qui do qui dolore et dolor minim do laboris tempor. Culpa deserunt laborum consequat anim et. Veniam incididunt sit qui aute mollit laborum. Cupidatat deserunt ut ad occaecat ea qui ut minim pariatur mollit consectetur nisi consequat. Cupidatat dolore laboris duis laboris.",
+    "picture": "http://i.imgur.com/At2DhYUm.jpg",
+    "breed": "Bull Terrier",
+    "score": 7,
+    "latitude": "-19.868105",
+    "longitude": "2.921715",
+    "thumbnail": "http://i.imgur.com/At2DhYUb.jpg"
+}, {
+    "id": "587af8c7a1d19fc0a3864521",
+    "name": "Cristina",
+    "about": "Duis eu sint labore nostrud laboris cupidatat ullamco est veniam non Lorem reprehenderit. In ut non irure amet et nisi irure sint culpa est. In sint excepteur qui magna consequat eiusmod est minim adipisicing. Occaecat anim do ex deserunt et dolore adipisicing ad eu mollit velit officia. Reprehenderit incididunt nisi enim irure pariatur consequat nulla. Occaecat commodo ad dolor nisi nulla laborum incididunt ut id tempor. Dolore et qui laboris consectetur nulla enim do duis mollit id ipsum elit ipsum ullamco.",
+    "picture": "http://i.imgur.com/ylvNeOzm.jpg",
+    "breed": "American Bulldog",
+    "score": 48,
+    "latitude": "19.745677",
+    "longitude": "-144.107338",
+    "thumbnail": "http://i.imgur.com/ylvNeOzb.jpg"
+}, {
+    "id": "587af8c705eb07f3a775144b",
+    "name": "Morales",
+    "about": "Fugiat non velit reprehenderit incididunt adipisicing. Sint excepteur nulla dolore consectetur culpa cupidatat deserunt amet anim officia velit cupidatat ad esse. Qui occaecat sunt voluptate elit adipisicing dolore non occaecat Lorem duis. Nostrud reprehenderit proident consectetur eu ut exercitation proident eu veniam ea est laboris id quis. Sint sint irure elit reprehenderit eiusmod dolore pariatur reprehenderit ut. Lorem labore ad elit pariatur. Sit commodo exercitation amet amet deserunt anim sunt exercitation aute voluptate dolore.",
+    "picture": "http://i.imgur.com/Z8hQZwlm.jpg",
+    "breed": "Bulldog",
+    "score": 3,
+    "latitude": "-86.356726",
+    "longitude": "82.656969",
+    "thumbnail": "http://i.imgur.com/Z8hQZwlb.jpg"
+}, {
+    "id": "587af8c7f048896e92628b60",
+    "name": "Mamie",
+    "about": "Eu minim velit exercitation sint ipsum commodo id minim. Nostrud exercitation ea eu ullamco veniam deserunt et dolor consectetur excepteur incididunt duis excepteur. Est laboris commodo sit sit ullamco non do cupidatat id deserunt eu aute proident. Tempor labore laborum dolor excepteur magna pariatur labore occaecat sit laborum officia Lorem magna. Dolore velit aute quis cupidatat ea dolore culpa id dolore anim esse exercitation nisi. Lorem aute esse velit sit.",
+    "picture": "http://i.imgur.com/Vgx8PVjm.jpg",
+    "breed": "German Shepherd",
+    "score": 97,
+    "latitude": "-37.939672",
+    "longitude": "-145.68312",
+    "thumbnail": "http://i.imgur.com/Vgx8PVjb.jpg"
+}, {
+    "id": "587af8c7e5ac6c1afe5944a1",
+    "name": "Delaney",
+    "about": "Velit duis non occaecat nisi. Amet adipisicing anim excepteur proident. Sint elit adipisicing enim commodo sint sint cupidatat eiusmod proident. Exercitation nisi occaecat cupidatat mollit labore enim cupidatat proident eiusmod ea ipsum est ad labore.",
+    "picture": "http://i.imgur.com/7KM0K2Qm.jpg",
+    "breed": "Boston Terrier",
+    "score": 37,
+    "latitude": "2.323612",
+    "longitude": "-4.537095",
+    "thumbnail": "http://i.imgur.com/7KM0K2Qb.jpg"
+}, {
+    "id": "587af8c758fca93f6590d1ad",
+    "name": "Gilda",
+    "about": "Sint ullamco laborum dolore laborum anim veniam esse incididunt magna mollit. Et eu cupidatat cupidatat nisi. Excepteur anim amet sit anim consectetur eiusmod aliqua id. Id qui mollit reprehenderit incididunt in fugiat minim deserunt do minim in veniam aute. Et aliquip id velit laborum ex. Consectetur eiusmod laboris reprehenderit exercitation aliquip pariatur consequat mollit. Ipsum minim voluptate elit ad sunt.",
+    "picture": "http://i.imgur.com/O9SuTXkm.jpg",
+    "breed": "Shiba Inu",
+    "score": 78,
+    "latitude": "-2.488946",
+    "longitude": "116.762381",
+    "thumbnail": "http://i.imgur.com/O9SuTXkb.jpg"
+}, {
+    "id": "587af8c70b0b8b54295b2a9c",
+    "name": "Lucile",
+    "about": "Aute amet aliquip eu consectetur. Anim id commodo dolore amet esse occaecat. Id proident sunt qui ea minim consequat officia. Do sunt sit occaecat laboris ut ea aute. Ex laboris id magna laborum anim commodo minim sit ad irure sit. Qui minim cillum irure ea aute nulla nulla duis dolor. Eiusmod ea laborum veniam do nostrud excepteur ad sint pariatur enim sunt non aliquip.",
+    "picture": "http://i.imgur.com/7bdfyYEm.jpg",
+    "breed": "American Pit Bull Terrier",
+    "score": 65,
+    "latitude": "79.675192",
+    "longitude": "108.734259",
+    "thumbnail": "http://i.imgur.com/7bdfyYEb.jpg"
+}, {
+    "id": "587af8c7cf4eb6e96922099a",
+    "name": "Deena",
+    "about": "Laborum voluptate nisi ullamco esse irure id in aliquip reprehenderit consequat. Exercitation laborum dolor ex qui velit. Minim culpa excepteur aliqua amet nisi. Cupidatat ex sunt laborum magna. Amet aliquip nostrud nulla occaecat quis. Dolor culpa eu culpa in amet sint. Aute enim exercitation labore sit mollit.",
+    "picture": "http://i.imgur.com/O1SL89Rm.jpg",
+    "breed": "Boston Terrier",
+    "score": 46,
+    "latitude": "-63.566029",
+    "longitude": "10.239909",
+    "thumbnail": "http://i.imgur.com/O1SL89Rb.jpg"
+}, {
+    "id": "587af8c7449c2c5cd84f9ab6",
+    "name": "Johnston",
+    "about": "Qui veniam aute sunt elit. Fugiat ipsum magna in laboris esse aliqua duis nulla. Esse eiusmod qui aliquip elit sunt enim sit nisi laboris laboris esse occaecat. Excepteur dolor commodo laborum dolore est dolor non dolor id consequat nisi magna. Deserunt ea cupidatat sint exercitation voluptate. Incididunt minim nostrud dolor adipisicing consequat qui in reprehenderit aliqua incididunt minim voluptate culpa cupidatat.",
+    "picture": "http://i.imgur.com/rinJUN7m.jpg",
+    "breed": "German Shepherd",
+    "score": 45,
+    "latitude": "28.80867",
+    "longitude": "154.955312",
+    "thumbnail": "http://i.imgur.com/rinJUN7b.jpg"
+}, {
+    "id": "587af8c7bd8d2dd611980327",
+    "name": "Vinson",
+    "about": "Nulla Lorem ullamco magna deserunt et. Est minim tempor nostrud culpa nulla aliquip enim ad. Ex eu nulla cupidatat excepteur ullamco nisi adipisicing cupidatat et aliquip ullamco dolore. Nostrud dolor occaecat laborum sit sunt aliqua labore dolor. Cupidatat voluptate irure veniam laboris exercitation sint duis minim eu et tempor consequat eiusmod cillum.",
+    "picture": "http://i.imgur.com/Vgx8PVjm.jpg",
+    "breed": "Boston Terrier",
+    "score": 87,
+    "latitude": "70.642545",
+    "longitude": "-147.542238",
+    "thumbnail": "http://i.imgur.com/Vgx8PVjb.jpg"
+}, {
+    "id": "587af8c786a4a619868cb8f7",
+    "name": "Dianna",
+    "about": "Proident et officia tempor non velit mollit duis magna irure ipsum sit consectetur laborum cupidatat. Est ex anim nostrud id nisi proident quis fugiat occaecat dolor enim consequat exercitation. Ipsum culpa esse deserunt ut dolor reprehenderit nostrud dolor in non incididunt commodo et.",
+    "picture": "http://i.imgur.com/PHUvJvtm.jpg",
+    "breed": "Bull Terrier",
+    "score": 61,
+    "latitude": "4.99747",
+    "longitude": "126.459791",
+    "thumbnail": "http://i.imgur.com/PHUvJvtb.jpg"
+}, {
+    "id": "587af8c774b14b4f455c1e0c",
+    "name": "Cynthia",
+    "about": "Quis aliquip officia officia non culpa duis. Enim est aliqua voluptate do officia elit adipisicing. Fugiat exercitation Lorem fugiat minim eiusmod amet veniam. Duis esse consectetur dolore consectetur enim incididunt voluptate quis dolore adipisicing pariatur elit commodo et. Cillum pariatur est ex adipisicing. Pariatur officia dolore exercitation sunt aute aliquip pariatur fugiat Lorem laborum ad. Ullamco fugiat minim amet sint ad adipisicing esse cillum.",
+    "picture": "http://i.imgur.com/ksX8FoVm.jpg",
+    "breed": "Boston Terrier",
+    "score": 26,
+    "latitude": "-21.655071",
+    "longitude": "-162.709758",
+    "thumbnail": "http://i.imgur.com/ksX8FoVb.jpg"
+}, {
+    "id": "587af8c79a509ffc580fcedf",
+    "name": "Opal",
+    "about": "Et reprehenderit quis reprehenderit sit eu et cupidatat in eiusmod aute voluptate id non. Id commodo incididunt pariatur Lorem. Sunt aute ad nostrud duis veniam enim incididunt. Minim consequat enim cupidatat fugiat et nostrud irure ut eiusmod occaecat. Labore proident id officia aliqua Lorem. Minim labore fugiat excepteur aliqua tempor deserunt voluptate labore ipsum deserunt esse amet irure magna. Cupidatat reprehenderit ex quis eiusmod Lorem Lorem.",
+    "picture": "http://i.imgur.com/C8yj46hm.jpg",
+    "breed": "Bull Terrier",
+    "score": 8,
+    "latitude": "-72.090918",
+    "longitude": "163.545969",
+    "thumbnail": "http://i.imgur.com/C8yj46hb.jpg"
+}, {
+    "id": "587af8c7ae15e9a196e8680c",
+    "name": "Vanessa",
+    "about": "Ad pariatur deserunt enim dolor nisi eu nulla excepteur et id anim id. Non eu dolore exercitation cupidatat. Cillum tempor Lorem adipisicing nisi occaecat aute id ut. Occaecat eiusmod exercitation tempor adipisicing. Irure id sunt fugiat elit minim ad. Id proident deserunt laborum consectetur ut enim id dolore cillum deserunt consectetur laborum.",
+    "picture": "http://i.imgur.com/3EKGY5Um.jpg",
+    "breed": "American Bulldog",
+    "score": 23,
+    "latitude": "87.088734",
+    "longitude": "4.606808",
+    "thumbnail": "http://i.imgur.com/3EKGY5Ub.jpg"
+}, {
+    "id": "587af8c76bf83c7d90861078",
+    "name": "Valarie",
+    "about": "Duis sit elit fugiat consectetur cillum officia occaecat consectetur elit aliquip cupidatat commodo consequat est. Esse cillum enim laborum enim pariatur voluptate mollit nostrud nulla consectetur ad. Commodo culpa ad sit aliquip eiusmod amet voluptate et. Velit aliqua anim dolore est.",
+    "picture": "http://i.imgur.com/67Qc9ttm.jpg",
+    "breed": "Bulldog",
+    "score": 5,
+    "latitude": "-14.739665",
+    "longitude": "-155.386858",
+    "thumbnail": "http://i.imgur.com/67Qc9ttb.jpg"
+}, {
+    "id": "587af8c7364ee60b2911b8f6",
+    "name": "Shari",
+    "about": "Sunt ea commodo nulla Lorem cillum eu velit qui deserunt eu cupidatat ad voluptate veniam. Sit minim id qui enim dolore ut amet adipisicing. Sint ex cillum id et et dolor pariatur proident velit.",
+    "picture": "http://i.imgur.com/Vgx8PVjm.jpg",
+    "breed": "German Shepherd",
+    "score": 45,
+    "latitude": "-6.613849",
+    "longitude": "158.316684",
+    "thumbnail": "http://i.imgur.com/Vgx8PVjb.jpg"
+}, {
+    "id": "587af8c758446b1a463ae78a",
+    "name": "Henrietta",
+    "about": "Duis tempor do dolor ea cillum officia nisi. Consectetur proident amet velit do aliqua ipsum esse ipsum fugiat cupidatat voluptate duis. Dolore duis eu laboris pariatur mollit nulla nisi eiusmod. Voluptate deserunt adipisicing consequat laboris elit proident nulla cupidatat est. Duis ut est adipisicing do commodo aute Lorem mollit proident ea tempor cillum amet. Officia fugiat deserunt adipisicing ea qui. Laboris ea irure elit elit laborum incididunt.",
+    "picture": "http://i.imgur.com/E3br3bwm.jpg",
+    "breed": "Shiba Inu",
+    "score": 66,
+    "latitude": "42.989699",
+    "longitude": "120.851121",
+    "thumbnail": "http://i.imgur.com/E3br3bwb.jpg"
+}, {
+    "id": "587af8c7d8c5cf65dc252178",
+    "name": "Ladonna",
+    "about": "Nisi velit do laboris labore. In nisi eu reprehenderit minim ea pariatur aliquip proident deserunt. Commodo velit anim adipisicing eiusmod.",
+    "picture": "http://i.imgur.com/PHUvJvtm.jpg",
+    "breed": "American Bulldog",
+    "score": 3,
+    "latitude": "-69.321508",
+    "longitude": "178.352861",
+    "thumbnail": "http://i.imgur.com/PHUvJvtb.jpg"
+}, {
+    "id": "587af8c76c98fc14c571e7f5",
+    "name": "Rios",
+    "about": "Aute elit velit Lorem ullamco qui. Amet excepteur id occaecat duis in amet et. Occaecat fugiat ipsum sit in aliquip veniam ipsum ex consectetur adipisicing ut aliqua culpa. Anim velit aliqua eiusmod voluptate et eu elit mollit consequat sunt ex tempor commodo. Irure laborum consectetur labore irure occaecat ipsum deserunt pariatur quis exercitation laboris fugiat sint.",
+    "picture": "http://i.imgur.com/54tkkKLm.jpg",
+    "breed": "Pug",
+    "score": 100,
+    "latitude": "-16.654123",
+    "longitude": "176.751047",
+    "thumbnail": "http://i.imgur.com/54tkkKLb.jpg"
+}, {
+    "id": "587af8c70ccfae56baede956",
+    "name": "Janet",
+    "about": "Sit eu cupidatat mollit pariatur tempor adipisicing reprehenderit amet. Ipsum reprehenderit veniam excepteur deserunt officia. Id ad id eiusmod nulla cillum consequat magna magna enim id. Ut Lorem duis qui dolor et ea reprehenderit mollit ea pariatur commodo exercitation aute ex.",
+    "picture": "http://i.imgur.com/oALtEUDm.jpg",
+    "breed": "Bull Terrier",
+    "score": 76,
+    "latitude": "-53.526137",
+    "longitude": "76.861668",
+    "thumbnail": "http://i.imgur.com/oALtEUDb.jpg"
+}, {
+    "id": "587af8c7de9e6458670746f0",
+    "name": "Myra",
+    "about": "Consequat minim sunt non fugiat et quis reprehenderit. Ad incididunt tempor aliquip mollit amet aliqua minim sint et ea elit aliquip. Irure aute fugiat magna sit non nostrud cupidatat quis adipisicing minim. Elit voluptate cillum laboris nisi in consequat eiusmod dolore nisi voluptate laboris consequat aliquip. Nostrud do eu occaecat eu.",
+    "picture": "http://i.imgur.com/O9SuTXkm.jpg",
+    "breed": "Boston Terrier",
+    "score": 52,
+    "latitude": "-0.230908",
+    "longitude": "160.074554",
+    "thumbnail": "http://i.imgur.com/O9SuTXkb.jpg"
+}, {
+    "id": "587af8c79a4bf99af49306cb",
+    "name": "Patsy",
+    "about": "Aute elit labore anim duis minim non anim. Laborum dolore dolor elit velit ex nisi aliqua voluptate. Voluptate culpa sint Lorem aliquip. Est nulla tempor cillum elit Lorem officia enim dolor cillum ea cillum. Magna nostrud tempor reprehenderit labore tempor. Consequat anim sit exercitation voluptate aute velit. Lorem sint magna dolor aliqua sunt nulla dolore quis.",
+    "picture": "http://i.imgur.com/stXIhMBm.jpg",
+    "breed": "Boston Terrier",
+    "score": 97,
+    "latitude": "28.552879",
+    "longitude": "-128.239363",
+    "thumbnail": "http://i.imgur.com/stXIhMBb.jpg"
+}, {
+    "id": "587af8c74222103eea97b01e",
+    "name": "Guzman",
+    "about": "Sit eiusmod aliquip fugiat sit. Velit fugiat exercitation non aliqua labore in esse ut occaecat quis culpa id id. Voluptate aute exercitation anim do ipsum amet.",
+    "picture": "http://i.imgur.com/EH018qFm.jpg",
+    "breed": "Shiba Inu",
+    "score": 73,
+    "latitude": "-56.408746",
+    "longitude": "-101.000326",
+    "thumbnail": "http://i.imgur.com/EH018qFb.jpg"
+}, {
+    "id": "587af8c7dbab2b103688af04",
+    "name": "Misty",
+    "about": "Sit ea excepteur amet elit do pariatur ea nostrud eiusmod ullamco nisi ullamco sit proident. Nisi eiusmod consequat ea id. Aliquip qui in ut aliqua non Lorem ipsum aliqua eu dolore laboris. Nulla pariatur consequat officia velit pariatur laborum magna proident nostrud mollit quis aute culpa consectetur. Ipsum laborum eu excepteur duis qui ipsum ipsum.",
+    "picture": "http://i.imgur.com/7JV4ItXm.jpg",
+    "breed": "Pug",
+    "score": 87,
+    "latitude": "32.996195",
+    "longitude": "-89.596909",
+    "thumbnail": "http://i.imgur.com/7JV4ItXb.jpg"
+}, {
+    "id": "587af8c7cecf4785b4fa2818",
+    "name": "Audra",
+    "about": "Consequat in enim et ullamco commodo consectetur proident mollit laboris. Voluptate aliquip eu id proident ut amet est voluptate ex culpa dolore. Eu adipisicing eu qui veniam excepteur consectetur laborum. Dolore tempor proident culpa incididunt excepteur nulla Lorem proident fugiat. Occaecat cillum ullamco incididunt pariatur.",
+    "picture": "http://i.imgur.com/I4U501hm.jpg",
+    "breed": "American Bulldog",
+    "score": 51,
+    "latitude": "64.858667",
+    "longitude": "103.502009",
+    "thumbnail": "http://i.imgur.com/I4U501hb.jpg"
+}, {
+    "id": "587af8c70f9c8a2bb4e8a76c",
+    "name": "Catherine",
+    "about": "Magna nulla adipisicing aute do ex amet fugiat elit cupidatat Lorem ea nisi nisi. Deserunt reprehenderit quis Lorem fugiat ad tempor culpa culpa ea Lorem mollit cillum eu. Ullamco anim nostrud elit eu commodo amet aute reprehenderit aliquip ea anim amet enim sit. Adipisicing magna sint officia non. Et labore aliquip duis irure aliquip deserunt do ea est ipsum cupidatat sit. Dolor quis elit labore ea in.",
+    "picture": "http://i.imgur.com/BTbGmRwm.jpg",
+    "breed": "Bull Terrier",
+    "score": 59,
+    "latitude": "37.496013",
+    "longitude": "139.784795",
+    "thumbnail": "http://i.imgur.com/BTbGmRwb.jpg"
+}, {
+    "id": "587af8c7e9de3ea3abd7c88c",
+    "name": "Luna",
+    "about": "Culpa dolore nulla enim voluptate. Sit tempor do ut commodo pariatur veniam sit proident ad veniam dolor enim officia sunt. Irure fugiat est voluptate in eiusmod aliquip dolore.",
+    "picture": "http://i.imgur.com/I4U501hm.jpg",
+    "breed": "Chihuahua",
+    "score": 26,
+    "latitude": "7.922341",
+    "longitude": "72.732297",
+    "thumbnail": "http://i.imgur.com/I4U501hb.jpg"
+}, {
+    "id": "587af8c74218490f437b0ff7",
+    "name": "Rollins",
+    "about": "Consequat ullamco quis cillum consequat officia non culpa id qui tempor tempor amet minim. Labore aute minim labore pariatur mollit aliquip. Ipsum adipisicing tempor sint dolore cillum duis velit nulla ad eiusmod duis sit laborum. Laborum laboris amet reprehenderit amet nostrud excepteur sunt ipsum sunt cupidatat aliquip.",
+    "picture": "http://i.imgur.com/54tkkKLm.jpg",
+    "breed": "Pug",
+    "score": 67,
+    "latitude": "-62.11037",
+    "longitude": "-49.302711",
+    "thumbnail": "http://i.imgur.com/54tkkKLb.jpg"
+}, {
+    "id": "587af8c7d60c4507f95dfd42",
+    "name": "Oneal",
+    "about": "Reprehenderit consectetur excepteur irure sit cillum do elit cillum. Non ullamco proident proident velit. Id consequat consequat proident sunt ea proident mollit duis occaecat sit fugiat tempor. Laborum voluptate pariatur sunt deserunt tempor in magna pariatur cillum esse sunt pariatur consectetur. Aliqua nisi cupidatat est elit non voluptate et laborum ipsum ad. Eiusmod dolor consequat cupidatat esse proident ipsum commodo irure veniam mollit sit tempor. Nulla est cillum nostrud voluptate duis exercitation.",
+    "picture": "http://i.imgur.com/Vgx8PVjm.jpg",
+    "breed": "Pug",
+    "score": 14,
+    "latitude": "70.57384",
+    "longitude": "150.798326",
+    "thumbnail": "http://i.imgur.com/Vgx8PVjb.jpg"
+}, {
+    "id": "587af8c7b3858b3f3e4d0954",
+    "name": "Janie",
+    "about": "Adipisicing dolore aute aliqua qui proident ad ea consectetur magna aliqua nulla. Exercitation labore commodo tempor non elit minim ea fugiat amet ex cillum aliquip esse. Id anim enim id quis minim ullamco quis amet ex. Consectetur dolor aliquip nostrud ut nisi nostrud culpa. Ullamco dolor voluptate proident officia eu duis eu minim velit do sunt dolore amet. Incididunt irure dolore do incididunt adipisicing sunt excepteur est amet anim anim. Anim sit enim velit magna officia dolore commodo mollit in proident elit non deserunt.",
+    "picture": "http://i.imgur.com/nyktkdPm.jpg",
+    "breed": "Pug",
+    "score": 4,
+    "latitude": "-33.024632",
+    "longitude": "156.412893",
+    "thumbnail": "http://i.imgur.com/nyktkdPb.jpg"
+}, {
+    "id": "587af8c7de303e941fd7da13",
+    "name": "David",
+    "about": "Commodo deserunt do ea in non occaecat irure consequat laboris ea sit incididunt ex veniam. Pariatur eu elit nisi elit irure duis ad elit pariatur ut excepteur. Quis cillum non fugiat nisi. Aliquip elit enim aliqua duis exercitation sit velit consectetur pariatur minim. Do incididunt mollit est labore ipsum dolore id do. Pariatur anim magna velit aute exercitation qui. Enim mollit exercitation commodo eiusmod veniam sit.",
+    "picture": "http://i.imgur.com/nyktkdPm.jpg",
+    "breed": "Bulldog",
+    "score": 80,
+    "latitude": "55.943236",
+    "longitude": "110.262854",
+    "thumbnail": "http://i.imgur.com/nyktkdPb.jpg"
+}, {
+    "id": "587af8c74ed812a9d1a9ea61",
+    "name": "Harrington",
+    "about": "Cillum elit duis cupidatat occaecat est nisi cupidatat voluptate exercitation veniam. Non cupidatat cillum voluptate tempor minim exercitation exercitation. Pariatur amet non dolor magna anim nisi veniam esse sit officia laboris reprehenderit duis. Nulla deserunt quis laborum laboris tempor irure esse adipisicing anim cupidatat cupidatat.",
+    "picture": "http://i.imgur.com/6XJPPmkm.jpg",
+    "breed": "Chihuahua",
+    "score": 33,
+    "latitude": "-57.485519",
+    "longitude": "111.289065",
+    "thumbnail": "http://i.imgur.com/6XJPPmkb.jpg"
+}, {
+    "id": "587af8c7393dee8d198fbf8c",
+    "name": "Melinda",
+    "about": "Commodo ad fugiat excepteur voluptate. Minim esse officia anim dolor proident qui aliquip Lorem tempor eu laboris anim et eiusmod. Cupidatat velit et pariatur anim sunt ea. Nostrud consequat magna sit voluptate enim enim consectetur do fugiat consectetur velit eiusmod. Proident eu aliquip commodo officia ipsum amet velit consequat adipisicing aute nulla. Exercitation reprehenderit sit Lorem elit fugiat voluptate Lorem commodo magna non. Ullamco sit in non occaecat officia fugiat consequat aliquip tempor veniam.",
+    "picture": "http://i.imgur.com/vJjy7lUm.jpg",
+    "breed": "Border Collie",
+    "score": 97,
+    "latitude": "-11.145726",
+    "longitude": "-171.701092",
+    "thumbnail": "http://i.imgur.com/vJjy7lUb.jpg"
+}, {
+    "id": "587af8c72dc1db6387759f13",
+    "name": "Moses",
+    "about": "Eu ea nisi id magna elit adipisicing consectetur officia dolor ut deserunt reprehenderit in enim. Proident laborum ullamco in id aute officia aliquip adipisicing consequat. Ex mollit consequat enim sint aliquip mollit fugiat esse excepteur cupidatat. Laborum excepteur culpa eu ullamco incididunt excepteur tempor occaecat aliqua quis proident. Cillum aliquip reprehenderit fugiat voluptate labore anim exercitation ad exercitation elit. Velit in laborum do non ullamco commodo quis cillum labore eu. Occaecat minim reprehenderit veniam non quis ut anim cupidatat commodo Lorem aliqua.",
+    "picture": "http://i.imgur.com/meBoORem.jpg",
+    "breed": "Border Collie",
+    "score": 99,
+    "latitude": "-72.216314",
+    "longitude": "-42.776446",
+    "thumbnail": "http://i.imgur.com/meBoOReb.jpg"
+}, {
+    "id": "587af8c70d55a29c83b98c5d",
+    "name": "Deanna",
+    "about": "Fugiat velit consequat eiusmod veniam labore minim consequat ad aliquip exercitation ut nisi aute sit. Ipsum quis laboris labore aute aliqua est quis nostrud eiusmod laborum officia. Consectetur sunt culpa ipsum nostrud nulla minim excepteur ad labore Lorem nulla excepteur. Irure ex nisi Lorem amet Lorem quis ipsum id do proident nisi aliquip esse. Sit incididunt mollit aute dolore. Adipisicing aliquip elit irure nulla elit labore. Duis nisi sit cillum duis sit elit.",
+    "picture": "http://i.imgur.com/stXIhMBm.jpg",
+    "breed": "Bulldog",
+    "score": 96,
+    "latitude": "62.249621",
+    "longitude": "-169.348845",
+    "thumbnail": "http://i.imgur.com/stXIhMBb.jpg"
+}, {
+    "id": "587af8c793112c33fe66bc43",
+    "name": "Angela",
+    "about": "Voluptate qui deserunt dolor excepteur velit adipisicing ullamco minim irure laborum qui. Commodo sint amet commodo irure proident aliquip dolor reprehenderit veniam eiusmod ullamco nulla anim. Consequat id deserunt enim nostrud consequat sint dolor exercitation irure aliquip commodo quis dolor Lorem. Non veniam voluptate in do ea tempor ea labore aliquip incididunt. Id aute quis et amet irure sint ut aliqua duis. Consectetur id sint aute consequat non incididunt culpa aute deserunt in amet eu. Enim nulla magna fugiat cupidatat.",
+    "picture": "http://i.imgur.com/5bbaImgm.jpg",
+    "breed": "Border Collie",
+    "score": 0,
+    "latitude": "43.697687",
+    "longitude": "-68.868703",
+    "thumbnail": "http://i.imgur.com/5bbaImgb.jpg"
+}, {
+    "id": "587af8c7d8c09db61c5701da",
+    "name": "Selma",
+    "about": "Eu aute incididunt tempor reprehenderit dolor sint ex dolore proident Lorem. Et proident adipisicing laborum nulla velit consequat non Lorem consequat pariatur tempor. Ex aliquip Lorem dolor incididunt officia esse culpa elit magna nostrud fugiat. Exercitation cupidatat est qui culpa eu mollit est ad laborum id enim laboris. Cillum commodo ea occaecat tempor aute. Ut ullamco est Lorem reprehenderit laborum consectetur velit occaecat aliqua.",
+    "picture": "http://i.imgur.com/vJjy7lUm.jpg",
+    "breed": "Border Collie",
+    "score": 39,
+    "latitude": "-29.674887",
+    "longitude": "150.489429",
+    "thumbnail": "http://i.imgur.com/vJjy7lUb.jpg"
+}, {
+    "id": "587af8c7f841709dfedeb8d0",
+    "name": "Cassie",
+    "about": "Minim laborum aliqua nostrud adipisicing aliquip esse. Aute cillum occaecat irure est sint irure veniam. Officia irure irure sunt dolor dolor do amet exercitation labore voluptate sit nisi. Excepteur non eu non laboris cupidatat duis aliqua ut quis. Et ullamco amet sint veniam est culpa excepteur adipisicing minim. Minim ullamco adipisicing officia exercitation tempor.",
+    "picture": "http://i.imgur.com/Z8hQZwlm.jpg",
+    "breed": "Shiba Inu",
+    "score": 12,
+    "latitude": "80.625532",
+    "longitude": "-132.867521",
+    "thumbnail": "http://i.imgur.com/Z8hQZwlb.jpg"
+}, {
+    "id": "587af8c799323724ead271ef",
+    "name": "Salinas",
+    "about": "Sunt aliqua consequat incididunt cupidatat amet laborum. Duis enim est pariatur fugiat cillum et labore reprehenderit ex adipisicing exercitation dolore eiusmod. Est cupidatat cupidatat ea veniam ullamco culpa et nostrud. Tempor adipisicing ullamco voluptate amet enim ullamco aute. Fugiat qui ullamco cupidatat adipisicing proident minim amet ea.",
+    "picture": "http://i.imgur.com/lBYeLKWm.jpg",
+    "breed": "Bull Terrier",
+    "score": 32,
+    "latitude": "-77.809218",
+    "longitude": "3.758517",
+    "thumbnail": "http://i.imgur.com/lBYeLKWb.jpg"
+}, {
+    "id": "587af8c732de819fbffff856",
+    "name": "Odonnell",
+    "about": "Elit exercitation sunt ullamco id ullamco. Nisi excepteur ad laboris id deserunt pariatur deserunt sunt excepteur duis. Laborum Lorem laborum aliqua id magna minim ex id. Reprehenderit nulla ex elit laboris deserunt ut laboris quis Lorem in ex enim. Dolore excepteur est culpa nostrud commodo ullamco. Veniam proident adipisicing irure sint excepteur occaecat non incididunt officia labore eu tempor. Non anim nisi et aliquip.",
+    "picture": "http://i.imgur.com/Xyx5PQfm.jpg",
+    "breed": "Boston Terrier",
+    "score": 51,
+    "latitude": "-65.153899",
+    "longitude": "-42.561681",
+    "thumbnail": "http://i.imgur.com/Xyx5PQfb.jpg"
+}]

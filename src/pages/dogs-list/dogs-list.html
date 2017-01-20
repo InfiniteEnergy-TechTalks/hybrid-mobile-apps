@@ -1,0 +1,26 @@
+<!--
+  Generated template for the DogsList page.
+
+  See http://ionicframework.com/docs/v2/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+
+  <ion-navbar color="primary">
+    <ion-title>DogsList</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content>
+  <ion-list>
+    <button ion-item (click)="viewDetails(dog)" *ngFor="let dog of dogs">
+      <ion-thumbnail item-left>
+        <img [src]="dog.thumbnail">
+      </ion-thumbnail>
+      {{dog.name}}
+      <p>{{dog.breed}}</p>
+    </button>
+  </ion-list>
+</ion-content>
