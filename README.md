@@ -31,6 +31,7 @@ global npm dependencies
 
 ## Notes
 
+* Presentation slides can be found in the repository root
 * Mock json data can be found under `src/assets/mock-data`
 * At the time of development this app used:
     * `cordova @ 6.4.0`
